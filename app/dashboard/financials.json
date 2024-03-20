@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Reliance Industries Ltd",
+    "sector": " Refineries",
+    "industry": "Refineries",
+    "mcap": "₹ 19,53,421 Cr.",
+    "peratio": "28.0",
+    "high": "₹ 3,025 ",
+    "low": " ₹ 2,016 "
+  },
+  {
+    "id": 2,
+    "name": "Tata Motors",
+    "sector": " Automobile",
+    "industry": "Automobiles - LCVs / HCVs",
+    "mcap": "₹ 3,44,097 Cr.",
+    "peratio": "17.1",
+    "high": "₹ 1,066",
+    "low": "₹ 400 "
+  },
+  {
+    "id": 3,
+    "name": "HDFC Bank",
+    "sector": "Banks",
+    "industry": "Banks - Private Sector",
+    "mcap": "₹ 10,87,385 Cr.",
+    "peratio": "16.0",
+    "high": "₹ 1,758",
+    "low": "₹ 1,363"
+  },
+  {
+    "id": 4,
+    "name": "Wipro",
+    "sector": "IT - Software ",
+    "industry": "Computers - Software - Large",
+    "mcap": "₹ 2,57,879 Cr.",
+    "peratio": "22.8",
+    "high": "₹ 546",
+    "low": "₹ 352"
+  },
+  {
+    "id": 5,
+    "name": "ITC",
+    "sector": "Tobacco Products ",
+    "industry": "Cigarettes",
+    "mcap": "₹ 5,18,918 Cr.",
+    "peratio": "25.4",
+    "high": "₹ 500",
+    "low": "₹ 374"
+  }
+]

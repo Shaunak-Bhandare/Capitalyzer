@@ -1,8 +1,19 @@
+"use client";
+import React from "react";
+import Index from "./Index";
+// import Chart from "./Chart";
+// import { Stocks } from "./Stocks";
+import Indices from "./Indices";
+import StockList from "./StockList";
+
 const Dashboard = () => {
   return (
     <>
-      <h1 className='text-2xl font-bold mb-5'>Dashboard</h1>
-      <p className='mb-5'>Welcome to the dashboard!</p>
+      <Index />
+      <Indices />
+      {/* <Chart /> */}
+      <StockList />
+      {/* <Stocks /> */}
     </>
   );
 };

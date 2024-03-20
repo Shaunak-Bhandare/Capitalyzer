@@ -1,0 +1,452 @@
+[
+  {
+    "symbol": "RELIANCE",
+    "name": "Reliance Industries Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "TCS",
+    "name": "Tata Consultancy Services Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "HDFCAMC",
+    "name": "HDFC Asset Management Company Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "ICICIBANK",
+    "name": "ICICI Bank Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "name": "Bharti Airtel Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "SBIN",
+    "name": "State Bank of India",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "INFY",
+    "name": "Infosys Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "name": "Hindustan Unilever Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "ITC",
+    "name": "ITC Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "LT",
+    "name": "Larsen & Toubro Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "HCLTECH",
+    "name": "HCL Technologies Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "name": "Bajaj Finance Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "name": "Sun Pharmaceutical Industries Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "TATAMOTORS",
+    "name": "Tata Motors Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "MARUTI",
+    "name": "Maruti Suzuki India Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "ADANIENT",
+    "name": "Adani Enterprises Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "name": "Kotak Mahindra Bank Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "ONGC",
+    "name": "Oil and Natural Gas Corporation Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "AXISBANK",
+    "name": "Axis Bank Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "NTPC",
+    "name": "NTPC Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "TITAN",
+    "name": "Titan Company Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "name": "Adani Ports and Special Economic Zone Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "COALINDIA",
+    "name": "Coal India Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "name": "UltraTech Cement Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "name": "Asian Paints Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "WIPRO",
+    "name": "Wipro Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "POWERGRID",
+    "name": "Power Grid Corporation of India Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "BAIDFIN",
+    "name": "Baid Finserv Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "name": "Nestle India Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "BAJAJ.AUTO",
+    "name": "Bajaj Auto Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "M&M",
+    "name": "Mahindra & Mahindra Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "name": "JSW Steel Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "TATASTEEL",
+    "name": "Tata Steel Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "LTIM",
+    "name": "LTIMindtree Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "SBILIFE",
+    "name": "SBI Life Insurance Company Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "GRASIM",
+    "name": "Grasim Industries Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "BPCL",
+    "name": "Bharat Petroleum Corporation Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "HDFCLIFE",
+    "name": "HDFC Life Insurance Company Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "TECHM",
+    "name": "Tech Mahindra Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "INDUSINDBK",
+    "name": "IndusInd Bank Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "HINDALCO",
+    "name": "Hindalco Industries Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "CIPLA",
+    "name": "Cipla Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "BRITANNIA",
+    "name": "Britannia Industries Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "TATACONSUM",
+    "name": "Tata Consumer Products Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "DRREDDY",
+    "name": "Dr. Reddy's Laboratories Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "EICHERMOT",
+    "name": "Eicher Motors Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "DIVISLAB",
+    "name": "Divi's Laboratories Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "HEROMOTOCO",
+    "name": "Hero MotoCorp Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "name": "Apollo Hospitals Enterprise Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  },
+  {
+    "symbol": "UPL",
+    "name": "UPL Limited",
+    "currency": "INR",
+    "exchange": "NSE",
+    "mic_code": "XNSE",
+    "country": "India",
+    "type": "Common Stock"
+  }
+]
