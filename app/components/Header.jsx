@@ -44,7 +44,7 @@ const Header = async ({ username }) => {
                 Prof
               </Link> */}
               <Link
-                href="#"
+                href="portfolio"
                 className="text-black hover:text-gray-500 ml-4 mr-4"
               >
                 Portfolio

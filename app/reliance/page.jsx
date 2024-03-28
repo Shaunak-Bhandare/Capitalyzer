@@ -13,7 +13,7 @@ const TradingViewSymbolInfoWidget = () => {
         "https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js";
       script.async = true;
       script.innerHTML = JSON.stringify({
-        symbol: "NSE:RELIANCE",
+        symbol: "BSE:RELIANCE",
         width: 700,
         locale: "en",
         colorTheme: "light",
@@ -36,7 +36,7 @@ const TradingViewSymbolInfoWidget = () => {
         height: "550",
         isTransparent: false,
         colorTheme: "light",
-        symbol: "NSE:RELIANCE",
+        symbol: "BSE:RELIANCE",
         locale: "en",
       });
 
@@ -58,7 +58,7 @@ const TradingViewSymbolInfoWidget = () => {
         width: 700,
         height: 800,
         colorTheme: "light",
-        symbol: "NSE:RELIANCE",
+        symbol: "BSE:RELIANCE",
         locale: "en",
       });
 
@@ -78,7 +78,7 @@ const TradingViewSymbolInfoWidget = () => {
         width: 700,
         isTransparent: false,
         height: 800,
-        symbol: "NSE:RELIANCE",
+        symbol: "BSE:RELIANCE",
         showIntervalTabs: true,
         displayMode: "multiple",
         locale: "en",

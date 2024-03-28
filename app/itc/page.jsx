@@ -68,6 +68,32 @@ const TradingViewSymbolInfoWidget = () => {
 
   useEffect(() => {
     if (widgetRef.current) {
+      const script = document.createElement("script");
+      script.src =
+        "https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js";
+      script.type = "text/javascript";
+      script.async = true;
+      script.innerHTML = `
+        {
+          "width": "700",
+          "height": "610",
+          "symbol": "BSE:ITC",
+          "interval": "D",
+          "timezone": "Etc/UTC",
+          "theme": "light",
+          "style": "1",
+          "locale": "in",
+          "enable_publishing": false,
+          "allow_symbol_change": true,
+          "calendar": false,
+          "support_host": "https://www.tradingview.com"
+        }`;
+      widgetRef.current.appendChild(script);
+    }
+  }, []);
+
+  useEffect(() => {
+    if (widgetRef.current) {
       // Create and configure the script element
       const script = document.createElement("script");
       script.src =
