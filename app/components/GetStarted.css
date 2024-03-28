@@ -30,11 +30,6 @@ section {
   white-space: nowrap;
 }
 
-.cat-pic {
-  max-width: 100%;
-  height: auto;
-}
-
 .third {
   margin-top: 2%;
   display: flex;
@@ -123,7 +118,6 @@ section {
 .keep-tabs-pic {
   top: 2px;
   margin-top: -5%;
-  /* margin-left: -20%; */
   height: 110%;
   width: auto;
   z-index: -2;
@@ -138,11 +132,12 @@ section {
   color: #040d14;
 }
 
-.sixth {
+.sixth,
+.second {
   margin-top: 2%;
   display: flex;
   justify-content: center;
-  height: 750px;
+  height: 500px;
   width: 100%;
   overflow: hidden;
   background: #040d14;
@@ -163,18 +158,6 @@ section {
   justify-content: center;
   align-content: center;
   background: #040d14;
-}
-
-.eagle-div {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
-
-.trusted-pic {
-  margin-top: 15%;
-  max-width: 30%;
-  height: auto;
 }
 
 .trusted-blurb a {
@@ -264,6 +247,10 @@ section {
     width: 100%;
     padding: 2rem;
   }
+
+  .second .trusted-blurb {
+    margin: 5rem;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -277,7 +264,7 @@ section {
     width: 100%;
   }
   .no-manual-blurb {
-    margin: 3rem 4rem;
+    margin: 3rem 13rem;
   }
   .no-manual-pic {
     max-width: 100%;
@@ -294,27 +281,53 @@ section {
   .trusted-blurb h1 {
     font-size: 36px;
   }
+  .trusted-blurb {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .max-container {
+    padding: 0 3rem;
+  }
+  .keep-tabs-blurb {
+    width: 70%;
+    margin-left: 12rem;
+  }
+  .keep-tabs-blurb h1 {
+    font-size: 2rem;
+  }
+  .get-started-blurb h3 {
+    margin-left: 6rem;
+  }
 }
 
 @media screen and (max-width: 425px) {
   .keep-tabs-blurb {
     padding-left: 5rem;
   }
-  .eagle-div,
-  .trusted-blurb {
-    width: 120%;
-  }
-
-  .trusted-blurb h3 {
-    margin: 3rem;
-  }
   .get-started-blurb {
     margin-left: 5rem;
   }
   .get-started-blurb h3 {
-    margin: 2rem 6rem;
+    margin: 2rem 9rem;
   }
   .signup-redirect-button {
     margin-left: 3rem;
+  }
+  .max-container {
+    padding: 0 10rem;
+  }
+  .next-level-blurb {
+    margin-left: 10rem;
+  }
+  .trusted-blurb {
+    margin-left: 10rem;
+  }
+  .trusted-blurb h1 {
+    font-size: 28px;
+  }
+  .second .trusted-blurb {
+    margin: 0 14rem;
   }
 }
