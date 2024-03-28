@@ -14,11 +14,14 @@ const GetStarted = () => (
     <section className="max-container padding-container flex flex-col gap-4 w-auto  xl:flex-row">
       <div className="relative z-20 flexq flex-co pl-32 my-auto xl:w-1/2 text-black">
         <h1 className="text-5xl font-semibold mb-8">
-          Invest <br /> Commission-Free
+          Unlock Insights, <br /> Seize Opportunities
         </h1>
         <h3 className="text-base font-light">
-          Invest in stocks, ETFs, options, and <br /> cryptocurrencies, all
-          commission-free, <br /> right from your phone or desktop.
+          Gain a competitive edge with our intuitive portfolio creation tools,{" "}
+          <br />
+          allowing you to track market trends and manage your investments
+          efficiently. <br /> Stay ahead of the curve with real-time stock
+          market insights, <br /> personalized to your preferences.
         </h3>
         <br />
         <button className="px-6 py-2 outline-0 bg-emerald-300 border-0 rounded-3xl text-white">
@@ -32,10 +35,19 @@ const GetStarted = () => (
     </section>
 
     <section className="second">
-      <h2>
-        Cash management, <br /> coming soon.
-      </h2>
-      <Image src={pic} className="cat-pic" alt="flying cat." />
+      <div className="trusted-div">
+        <div className="trusted-blurb mt-5">
+          <h1 className="text-5xl">
+            Stay Informed, <br /> Stay Ahead
+          </h1>
+          <h3>
+            Never miss a beat with our comprehensive news alert system. Receive
+            timely updates through dictation or excel integration, <br />{" "}
+            keeping you informed of market developments and potential
+            opportunities.
+          </h3>
+        </div>
+      </div>
     </section>
 
     <section className="third">
@@ -45,12 +57,14 @@ const GetStarted = () => (
         alt="iPhone with analyst ratings from Merry Money app."
       />
       <div className="no-manual-blurb">
-        <h1 className="text-5xl font-semibold mb-8">No Manual Needed</h1>
+        <h1 className="text-5xl font-semibold mb-8">
+          Harnessing AI for Precision
+        </h1>
         <h3 className="text-base font-light">
-          Intuitively designed for newcomers and experts alike,
-          <br /> Capitalyzer gives you a clear picture of your portfolio’s
-          <br /> performance over time, so you can adjust your positions
-          <br /> and learn by doing.
+          Experience the future of financial analysis with seamless integration
+          of ChatGPT. <br /> Streamline your processes and enhance
+          decision-making capabilities with <br />
+          AI-driven insights and analysis.
         </h3>
       </div>
     </section>
@@ -66,25 +80,27 @@ const GetStarted = () => (
         </div>
 
         <div className="next-level-blurb">
-          <h1>Next Level Investing</h1>
+          <h1>
+            Personalized Insights, <br /> Tailored to You
+          </h1>
           <h3>
-            Access professional research reports, trade on margin, and <br />
-            make bigger instant deposits with Capitalyzer Gold—all starting{" "}
-            <br />
-            at $5 a month.
+            Explore curated stock news tailored to your interests and
+            preferences. <br /> Our news aggregator ensures you're always
+            up-to-date with the latest <br /> trends and events impacting your
+            investments.
           </h3>
         </div>
       </section>
 
       <section className="fifth">
         <div className="keep-tabs-blurb">
-          <h1>
-            Keep Tabs on the <br /> Market
-          </h1>
+          <h1>Tools for Technical Mastery</h1>
           <h3>
-            Access tools and features such as price movement <br />
-            notifications and customized investment news so you <br />
-            can find the right moment to invest.
+            Empower your analysis with advanced charting tools for technical{" "}
+            <br />
+            analysis and in-depth company reports. From trend analysis to
+            performance metrics, <br /> we provide the tools you need for
+            confident decision-making.
           </h3>
         </div>
 
@@ -95,25 +111,15 @@ const GetStarted = () => (
 
       <section className="sixth">
         <div className="trusted-div">
-          <div className="eagle-div">
-            <Image
-              src={trusted}
-              className="trusted-pic"
-              alt="Sprite of patriotic American eagle holding baseball bat and under three stars."
-            />
-          </div>
-
           <div className="trusted-blurb mt-5">
             <h1>
-              Trusted by Millions <br /> in India
+              Empowering Decision-Makers <br /> in India
             </h1>
             <h3>
-              Capitalyzer is a member of SIPC, which protects securities
-              customers of its <br />
-              members up to $500,000 (including $250,000 for claims for cash).{" "}
-              <br />
-              Explanatory brochure available upon request or at{" "}
-              <a href="https://www.sipc.org/">www.sipc.org.</a>
+              Gain a competitive edge with our intuitive portfolio creation
+              tools, <br /> allowing you to track market trends and manage your
+              investments efficiently. <br /> Stay ahead of the curve with
+              real-time stock market insights, personalized to your preferences.
             </h3>
           </div>
         </div>
@@ -128,10 +134,6 @@ const GetStarted = () => (
               future. Sign up now to <br />
               start investing with Capitalyzer.
             </h3>
-          </div>
-
-          <div className="get-started-button">
-            <button className="signup-redirect-button">Sign Up</button>
           </div>
         </div>
       </section>
