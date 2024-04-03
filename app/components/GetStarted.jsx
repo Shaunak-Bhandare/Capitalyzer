@@ -3,8 +3,6 @@ import image from "../images/invest-commission.png";
 import manual from "../images/no-manual.png";
 import level from "../images/next-level.png";
 import tabs from "../images/keep-tabs.png";
-import pic from "../images/cash-mgmt-coming.png";
-import trusted from "../images/trusted.png";
 import Image from "next/image";
 
 import "./GetStarted.css";

@@ -1,0 +1,46 @@
+#form {
+  height: 600px;
+  width: 500px;
+  border-radius: 5px;
+  padding: 1.5rem;
+  margin-bottom: 5rem;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  color: lightslategrey;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-bottom: 0.5rem;
+  outline: none;
+}
+
+button {
+  border-radius: 10px;
+  padding: 0.5rem;
+  margin-top: 1rem;
+  text-align: center;
+  width: 100%;
+  border: none;
+}
+
+#trailing-stop {
+  width: 10%;
+}
+
+@media screen and (max-width: 500px) {
+  #form {
+    width: 350px;
+  }
+  form {
+    width: 130vw;
+  }
+}

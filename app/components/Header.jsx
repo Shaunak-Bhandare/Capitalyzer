@@ -37,12 +37,6 @@ const Header = async ({ username }) => {
         <div className="flex items-center">
           {userId && (
             <>
-              {/* <Link
-                href="#"
-                className="text-black hover:text-gray-500 ml-4 mr-4"
-              >
-                Prof
-              </Link> */}
               <Link
                 href="portfolio"
                 className="text-black hover:text-gray-500 ml-4 mr-4"
@@ -56,7 +50,7 @@ const Header = async ({ username }) => {
                 News
               </Link>
               <Link
-                href="#"
+                href="alert"
                 className="text-black hover:text-gray-500 ml-4 mr-4"
               >
                 Alerts
