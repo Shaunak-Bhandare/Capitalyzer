@@ -1,6 +1,6 @@
-# Clerk Authentication App
+# Financial Analysis App
 
-This is an example of a Next.js app that uses [Clerk](https://clerk.com) for authentication and user management. This project goes along with my [YouTube Tutorial]().
+This is an example of a Next.js app that uses [Clerk](https://clerk.com) for authentication and user management.
 
 ## Usage
 
