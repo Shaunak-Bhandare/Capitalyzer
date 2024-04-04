@@ -3,7 +3,6 @@
 import React, { useState, useEffect } from "react";
 import "./page.css";
 import Papa from "papaparse";
-// import { fetchData } from "../util/api";
 
 function PopupForm() {
   const [showPopup, setShowPopup] = useState(false);
@@ -51,21 +50,6 @@ function PopupForm() {
     closePopup();
   };
 
-  // const [data, setData] = useState([]);
-
-  // useEffect(() => {
-  //   const getData = async () => {
-  //     try {
-  //       const response = await fetchData();
-  //       console.log("Response:", response); // Log the response
-  //       setData(response || []); // Ensure data is not null
-  //     } catch (error) {
-  //       console.error("Error fetching data:", error);
-  //     }
-  //   };
-  //   getData();
-  // }, []);
-
   return (
     <div>
       <button
@@ -74,15 +58,6 @@ function PopupForm() {
       >
         + Add Investment
       </button>
-
-      {/* <h1>Users</h1> */}
-      {/* <ul>
-        {data.map((user) => (
-          <li key={user.id}>
-            {user.name} & Age: {user.age}
-          </li>
-        ))}
-      </ul> */}
 
       {showPopup && (
         <div className="popup">
@@ -164,7 +139,9 @@ function PopupForm() {
               />
               <br />
               <div className="button-container my-5">
-                <button type="submit">Submit</button>
+                <button type="submit" id="button" className="px-4 py-2">
+                  Submit
+                </button>
                 {/* <button onClick={closePopup}>Close</button> */}
               </div>
             </form>

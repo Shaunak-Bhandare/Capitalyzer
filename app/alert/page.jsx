@@ -139,7 +139,7 @@ const Page = () => {
         />
         <br />
 
-        <button type="submit" className="mr-5 bg-green-400 text-white">
+        <button type="submit" className="mr-5 p-2 bg-green-400 text-white">
           Submit
         </button>
       </form>

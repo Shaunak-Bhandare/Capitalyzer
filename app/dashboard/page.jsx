@@ -1,8 +1,6 @@
 "use client";
 import React from "react";
 import Index from "./Index";
-// import Chart from "./Chart";
-// import { Stocks } from "./Stocks";
 import Indices from "./Indices";
 import StockList from "./StockList";
 
@@ -11,9 +9,7 @@ const Dashboard = () => {
     <>
       <Index />
       <Indices />
-      {/* <Chart /> */}
       <StockList />
-      {/* <Stocks /> */}
     </>
   );
 };
