@@ -26,7 +26,11 @@ const page = () => {
         className="mb-20 mx-10"
         id="card-grid"
       >
-        <Card id="card1" className="custom-card">
+        <Card
+          id="card1"
+          className="custom-card"
+          style={{ backgroundColor: "lightcyan" }}
+        >
           <CardHeader>
             <Link href="intro">
               <Heading size="md">Introduction to Stock Markets</Heading>
@@ -48,7 +52,11 @@ const page = () => {
           </CardFooter>
         </Card>
 
-        <Card id="card2" className="custom-card">
+        <Card
+          id="card2"
+          className="custom-card"
+          style={{ backgroundColor: "aliceblue" }}
+        >
           <CardHeader>
             <Link href="technical">
               <Heading size="md"> Technical Analysis</Heading>
@@ -73,7 +81,11 @@ const page = () => {
           </CardFooter>
         </Card>
 
-        <Card id="card3" className="custom-card">
+        <Card
+          id="card3"
+          className="custom-card"
+          style={{ backgroundColor: "azure" }}
+        >
           <CardHeader>
             <Link href="fundamental">
               <Heading size="md">Fundamental Analysis</Heading>
