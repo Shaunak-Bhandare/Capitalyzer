@@ -56,6 +56,12 @@ const Header = async ({ username }) => {
                 Alerts
               </Link>
               <Link
+                href="capitaliq"
+                className="text-black hover:text-gray-500 ml-4 mr-4"
+              >
+                CapitalIQ
+              </Link>
+              <Link
                 href="education"
                 className="text-black hover:text-gray-500 ml-4 mr-4"
               >
